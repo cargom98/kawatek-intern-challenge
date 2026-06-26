@@ -1,0 +1,23 @@
+# Keep ground truth hidden from candidates
+challenge-a/data/.ground_truth.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Node
+node_modules/
+dist/
+.next/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
